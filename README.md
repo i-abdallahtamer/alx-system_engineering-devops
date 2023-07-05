@@ -1,0 +1,1 @@
+This is repository that include directories/projects about shell basics tasks
