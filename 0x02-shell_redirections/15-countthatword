@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "pin" /etc/passwd | wc -l
+grep pin /etc/passwd | wc -l
