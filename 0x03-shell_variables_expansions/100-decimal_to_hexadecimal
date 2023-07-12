@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x \n" $DCEIMAL
+printf "%x\n" $DCEIMAL
